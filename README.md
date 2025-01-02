@@ -1,7 +1,3 @@
-# Metal-cost
-
-GUI for metal price calculation. Allos calculating price of a metal based on its content in a waste or mineral. Prices can be found in the attached excel file. Price are varying, and highly dependent on the metal form and purity. 
-
 # Metal Price Forecasting using LSTM
 
 This repository contains code for forecasting metal prices using a Bidirectional Long Short-Term Memory (LSTM) neural network. Additionally, it includes a Tkinter-based GUI application for visualizing metal values and calculating the total metal value based on user input.
