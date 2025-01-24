@@ -6,7 +6,7 @@ This repository contains code for forecasting metal prices using a Bidirectional
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
+
 
 
 ## Introduction
@@ -49,9 +49,4 @@ The GUI is a tool to help calculate the metal value one can foun in metallic was
 
 Figure 2. Screenshot of the GUI to calculate metal value
 
-
-
-## Installation
-
-To run the code in this repository, you need to have Python installed on your system. Additionally, you need to install the required libraries. 
 
